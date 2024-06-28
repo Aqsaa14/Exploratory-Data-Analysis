@@ -1,0 +1,10 @@
+**Diwali Sales Exploratory Data Analysis using Python**
+This project focuses on analyzing sales data during the Diwali festival season, leveraging Python's robust data analysis libraries. The goal is to uncover sales trends, customer behavior, and product performance during this festive period, providing actionable insights for strategic planning and marketing efforts.
+
+**Key Features**
+Descriptive Statistics: Generate summary statistics to understand the central tendency, dispersion, and shape of the sales data distribution.
+Sales Trend Analysis: Visualize sales trends over time to identify peak sales periods and overall performance during the Diwali season.
+Customer Segmentation: Analyze customer demographics and purchasing behavior to identify key customer segments.
+Product Performance: Evaluate the performance of different products, categories, and brands during Diwali sales.
+Correlation Analysis: Examine relationships between different variables, such as sales, discounts, and customer demographics.
+Outlier Detection: Detect and analyze outliers in the sales data to understand any anomalies or unusual patterns.
